@@ -1,0 +1,12 @@
+man:
+	wpcat d:\wp\man\kubis.man > kubis.txt
+	wpcat d:\wp\man\kubis.man -t > c:\usr\man\cat6\kubis.6
+	wpcat d:\wp\man\kubis.man -t > kubis.6
+
+dist:
+	- rm kubis96b.zip
+	strip -fv kubis.app
+	runopts +flm kubis.app
+	zip -a kubis96b.zip kubis.app kubis.6 kubis.txt readme.eng
+	maketemp.mup | zip -z kubis96b.zip
+	cp kubis96b.zip e:\public\dist

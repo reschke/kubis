@@ -1,0 +1,12 @@
+kubis.app
+.C [-M -P]
+=              ; list of modules follows...
+pcstart.o      ; startup code
+kubis.c (kubrsc.rsh)
+blocks.s
+..\flydial\flydial.prj
+libdosix.lib
+pcstdlib.lib   ; standard lib
+pcextlib.lib   ; extended lib
+pctoslib.lib   ; TOS lib
+pcgemlib.lib

@@ -1,0 +1,49 @@
+@(#)Kubis/kubis.gen
+@(#)Julian F. Reschke, 1. Februar 1992
+
+11. Oktober (1990)
+
+Resource ist jetzt eingebunden. Es wird nur noch eine TXT-Datei
+ins Clipboard geschrieben. Die Steine haben jetzt RÑnder. HELP-
+Taste gibt Auskunft Åber neue Tastaturbelegung.
+
+
+12. Oktober (1990)
+Screen wird bei Beendigung durch Fenster schlieûen oder
+Programmstart nicht mher gelîscht.
+
+Samstag,  1. Februar 1992, 13.47 Uhr
+Suchen der Score-Datei auf shel_find() umgestellt.
+
+Samstag,  1. Februar 1992, 18.10 Uhr
+Das Timing sollte jetzt auf allen Maschinen gleich sein.
+
+Mittwoch,  5. Februar 1992, 17.19 Uhr
+For the moment, all texts are in english (until I have the time to put
+in internationalisation).
+
+Mittwoch,  5. Februar 1992, 17.19 Uhr
+Feature removed: entry of system time.
+
+Freitag,  6. MÑrz 1992, 11.06 Uhr
+AP_TERM is catched.
+
+Montag, 13. April 1992, 21.35 Uhr
+Es wird jetzt nicht mehr in die MiNT-Domain gegangen (gab natuerlich
+Probleme als ACC unter GEM < 4.0).
+
+Donnerstag, 30. April 1992, 00.15 Uhr
+Die High-Score-Liste zeigt wieder vernuenftige Werte an.
+
+Samstag, 16. Mai 1992, 00.46 Uhr
+AE_PNTSIZE und AE_FONTNAME werden jetzt berÅcksichtigt.
+
+Sonntag, 17. Mai 1992, 13.57 Uhr
+Das Fenster wird auf dem sichtbaren Bildausschnitt zentriert.
+
+Mittwoch, 13. Januar 1993, 12.05 Uhr MEZ
+Kleine optische Verbesserungen beim AbrÑumen von Reihen. NÑchster Stein
+wird angezeigt. Ink-Steine eingebaut.
+
+Juli 1996, Release 96 B
+Sound. Bug bei timer-Berechnung beseitig. AbrÑumroutine.

@@ -1,0 +1,3 @@
+echo "Kubis '96, Version B, Copyright (c) Julian F. Reschke"
+LC_ALL=C date
+echo

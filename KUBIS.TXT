@@ -1,0 +1,51 @@
+KUBIS(6)                         Spiele                        KUBIS(6)
+
+NAME
+     kubis.app - das Geschicklichkeitsspiel Kubis '96
+
+SYNOPSIS
+     KUBIS.APP
+
+BESCHREIBUNG
+     Kubis '96 ist einem bekannten Geschicklichkeitsspiel nachempfunden, 
+     daher kann wohl auf eine Beschreibung verzichtet werden. Die 
+     Tastaturbelegung wird nach Drcken der HELP-Taste angezeigt.
+
+DATEIEN
+     kubis.app      Programmdatei (kann in kubis.acc umbenannt und als 
+                    Accessory verwendet werden)
+
+     kubis.6        Manual mit Steuersequenzen (sollte in das Verzeich-
+                    nis cat6 im Manual-Ordner kopiert werden)
+
+     kubis.txt      Manual ohne Steuersequenzen
+
+COPYRIGHT
+     Copyright (c) 30. Juli 1996
+     Julian F. Reschke (jr@ms.maus.de)
+     Die ursprngliche Version von Kubis erschien im ST-Magazin (Markt & 
+     Technik Verlag AG).
+
+     Wichtiger Hinweis:
+
+     Es wird keinerlei Haftung fr irgendwelche direkten oder indirekten 
+     Sch„den bernommen -- einschlielich aber nicht beschr„nkt auf 
+     materielle oder finanzielle, die durch die Benutzung dieses Pro-
+     gramms oder die Untauglichkeit dieses Programms fr einen bestimm-
+     ten Zweck entstehen.
+
+     Dieses Programm ist NICHT Public Domain, darf aber (ausschlielich 
+     frei), weitergegeben werden. Eine Verbreitung auf PD-Sammeldisket-
+     ten und „hnlichen Medien (gebhrenpflichtige Mailboxsysteme, CD-
+     ROMs oder `Channel Videodat') ist nur mit meiner schriftlichen 
+     Genehmigung gestattet. Ich behalte mir das Recht vor, diese Geneh-
+     migung jederzeit und ohne Angabe von Grnden zurckzuziehen.
+
+     Bei der Weitergabe mu das Archiv in unver„nderter Form weiterge-
+     geben werden.
+
+     Bei Gefallen und/oder regelm„iger Benutzung bitte ich um eine 
+     kleine Spende auf die Konten von Amnesty International oder Green-
+     Peace.
+
+
