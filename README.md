@@ -1,8 +1,11 @@
 # kubis
 The 90's GEM game
 
+![Picture of Kubis GEM game window](kubis.png)
+
 ##
 Below the original "manual" for historical purposes. Please ignore the ancient copyright statement.
+
 
 ~~~
 KUBIS(6)                         Spiele                        KUBIS(6)
